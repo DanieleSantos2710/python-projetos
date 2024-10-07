@@ -1,1 +1,0 @@
-"primeiros testes de python"
